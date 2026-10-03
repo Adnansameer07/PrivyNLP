@@ -1,0 +1,7 @@
+row_id,anonymized_text
+1,Patient <PERSON_1> (<PATIENT_ID_1>) visited <ORG_1> on <DATE_1>. Email: <EMAIL_1>. Phone: <PHONE_1>.
+2,Dr. <PERSON_1> reviewed patient <PERSON_2> on <DATE_1>. The clinic contacted <EMAIL_1> at <PHONE_1>.
+3,<PATIENT_ID_1>. Follow-up date: <DATE_1>. The record was created from <ORG_1>.
+4,Student Arjun Nair (<STUDENT_ID_1>) registered for <ORG_1> on <DATE_1>. Contact <EMAIL_1>.
+5,"Student <PERSON_1>, <STUDENT_ID_1>, submitted the assignment on <DATE_1>. Phone: <PHONE_1>."
+6,The 12-digit synthetic national <DATE_1> is linked to student <PERSON_1> for this academic demonstration only.
